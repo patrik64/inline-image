@@ -1,3 +1,16 @@
+# Add dose suggestion
+This is not part of the description and will be ignored.
+## Item fields
+### Description
+This is the description of the item
+### Inputs
+Inputs content
+### Outputs
+Outputs content
+## Another section
+Another section that will be ignored
+
+
 Lorem ipsum ...
 ![CAT](./images/cat.jpg)
 Lorem ipsum ...
