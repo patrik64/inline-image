@@ -3,9 +3,9 @@ This is not part of the description and will be ignored.
 ## Item fields
 ### Description
 This is the description of the item 123
-### Inputs 123
+### Inputs
 Inputs content 123
-### Outputs 123
+### Outputs
 Outputs content 123
 ## Another section
 Another section that will be ignored
